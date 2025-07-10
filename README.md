@@ -36,12 +36,6 @@ bearing-fault-autoencoder/
 - matplotlib
 - scikit-learn
 
-Instalação:
-
-```bash
-pip install -r requirements.txt
-```
-
 ---
 
 ## 📊 Base de Dados
